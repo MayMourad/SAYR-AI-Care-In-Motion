@@ -3,3 +3,5 @@ dist
 *.log
 .claude/
 docs/deck-qa/
+docs/presentation/build/
+tools/presentation/out/
